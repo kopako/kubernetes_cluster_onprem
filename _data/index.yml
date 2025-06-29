@@ -1,0 +1,30 @@
+elements:
+  - title: "You Are in the Right Place If:"
+    items:
+      - Google Cloud Platform (GCP) is too expensive
+      - Amazon Web Services (AWS) Free Tier is not enough
+      - You are tired of skyrocketing cloud costs
+      - You are developing cloud-native software, but using cloud services are too expensive
+      - You are migrating monolith software to microservice architecture, and you need a cluster
+      - You currently possess — or plan to purchase — computers that meet the requirements for Kubernetes
+  - title: "What I Offer:"
+    items:
+      - Kubernetes Cluster Installation and Configuration
+      - NFS server setup for PersistentVolume provisioning (RWX)
+      - Documentation and training for your IT team
+      - Ongoing support options available
+  - title: "What You Will Gain:"
+    items:
+      - Avoid vendor lock-in and unpredictable cloud billing
+      - Achieve better performance for internal workloads
+      - Comply with data sovereignty and security requirements
+      - Full control over your Kubernetes architecture
+      - One-time setup investment — no hidden fees
+
+call_for_action:
+  text: Schedule Free Consultation
+  link: https://calendly.com/kopandima/30min
+moto:
+  - If you're an IT company developing cloud-native solutions, you don’t need the cloud to run Kubernetes.<br/>On-premises Kubernetes cluster could be the smart, cost-effective alternative you've been looking for.
+  - Ready to Build Cloud-Native **Without the Cloud Costs**?
+  - Let’s bring Kubernetes into your infrastructure—efficiently, securely, and tailored to your needs.

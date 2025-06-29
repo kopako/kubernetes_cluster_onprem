@@ -1,0 +1,33 @@
+---
+layout: default
+title: Home
+markdown: 0
+---
+<div class="row box-shadow justify-content-center">
+    {% for element in site.data.index.elements %}
+    <div class="col-md-12 col-lg-4 gy-2">
+        <div class="card mb-4 box-shadow border-0">
+            <div class="card-header bg-secondary text-white">
+                <h4 class="my-0 font-weight-normal">
+                    {{ element.title }}
+                </h4>
+            </div>
+            <div class="card-body bg-info text-black">
+                <ul>
+                    {% for item in element.items %}
+                    <li>{{ item }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+<div class="row">
+    <button class="btn btn-secondary" type="button">
+        <a class=" text-green" href={{ site.data.index.call_for_action.link }}>
+            {{ site.data.index.call_for_action.text }}
+        </a>
+    </button>
+</div>

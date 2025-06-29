@@ -1,0 +1,26 @@
+---
+---
+
+@import "my_vars";
+@import "bootstrap/bootstrap";
+
+.main {
+    margin-top: 8rem;
+}
+
+a {
+    color: greenyellow;
+}
+
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: var(--secondary);
+}
+
+td {
+  background-color: var(--primary);
+}

@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: TL;DR
+  link: /tldr.html
+- name: Pricing
+  link: pricing.html
+- name: About
+  link: /about.html
+- name: Contact
+  link: /contact.html

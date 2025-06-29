@@ -1,0 +1,40 @@
+elements:
+- title: "✅ Why Choose Kopako Service?"
+  items:
+    - It helps businesses deploy production-ready Kubernetes clusters on-premises. Fully configured, secure, and tailored to your infrastructure.
+    - Whether you’re modernizing legacy systems or building a private cloud, we ensure your Kubernetes foundation is rock-solid.
+    - Looking to deploy Kubernetes on-premises for full control over your infrastructure?
+    - |
+      Whether you're running on bare metal servers, VMware, or a hybrid setup, we help you:<br />
+      * Avoid cloud lock-in<br />
+      * Meet compliance requirements<br />
+      * Take control of your infrastructure with expert guidance
+
+- title: ✨ What’s Included in the Service
+  items:
+    - "⚙️ Kubernetes Cluster Installation & Configuration: Up to 5 Nodes"
+    - "🗄️ NFS server installation for PersistentVolume provisioning"
+    - "📡 Networking CNI: (Calico/Flannel) + Load Balancer (MetalLB or HAProxy)"
+    - "📁 Documentation and Handover: Full handover docs, topology diagram, and usage guide"
+    - "🛠️ Post-Install Support: 1–2 weeks of basic support (remote)"
+- title: ⚙️ Prerequisites
+  items:
+    - Linux system with glibc
+    - 2 GB or more RAM per machine (any less will leave little room for your apps)
+    - 2 CPUs or more for control plane machines
+    - Full network connectivity between all machines in the cluster (public or private network is fine)
+    - Unique hostname, MAC address, and product_uuid for every node. Use ip link or ifconfig -a for more details
+    - Required ports are open on your machines. See documentation for more details.
+    - A server for NFS
+- title: "💡 Perfect For"
+  items:
+    - Dev teams building on-prem CI/CD pipelines
+    - Enterprises needing air-gapped deployments
+    - Private cloud initiatives
+    - Monolithic app migration
+- title: "🎯 My Promise"
+  items:
+    - We bring battle-tested infrastructure experience to every project
+    - 100% transparent process
+    - Detailed documentation
+    - Zero vendor lock-in

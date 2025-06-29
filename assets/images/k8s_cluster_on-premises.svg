@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200"
+   height="44"
+   viewBox="0 0 52.916665 11.641667"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="logo.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   sodipodi:docname="k8s_cluster_on-premises.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="1.8266667"
+     inkscape:cx="109.48905"
+     inkscape:cy="15.60219"
+     inkscape:window-width="1440"
+     inkscape:window-height="900"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4"
+       x="-0.017640127"
+       y="-0.076278114"
+       width="1.0352803"
+       height="1.1525562">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.24983624"
+         id="feGaussianBlur4" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.3607px;line-height:1;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:0.935714;fill:#fefef4;fill-opacity:1;stroke:#fdd94e;stroke-width:0.251282;stroke-opacity:0;filter:url(#filter4)"
+       x="23.583494"
+       y="4.7042165"
+       id="text4"
+       transform="matrix(0.94678105,0,0,1.0562104,0.26458333,0.26458333)"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.3607px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#fefef4;fill-opacity:1;stroke-width:0.251282"
+         x="23.583494"
+         y="4.7042165">K8S CLUSTER </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.3607px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#fefef4;fill-opacity:1;stroke-width:0.251282"
+         x="23.583494"
+         y="10.157607"
+         id="tspan4">ON-PREMISES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.3607px;line-height:1;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#f3ef12;fill-opacity:1;stroke:#fdd94e;stroke-width:0.251282;stroke-opacity:0"
+       x="23.583494"
+       y="4.7042165"
+       id="text1"
+       transform="scale(0.94678105,1.0562104)"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.3607px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#f3ef12;fill-opacity:1;stroke-width:0.251282"
+         x="23.583494"
+         y="4.7042165">K8S CLUSTER </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.3607px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#f3ef12;fill-opacity:1;stroke-width:0.251282"
+         x="23.583494"
+         y="10.157607"
+         id="tspan2">ON-PREMISES</tspan></text>
+  </g>
+</svg>
