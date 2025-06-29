@@ -1,11 +1,12 @@
-host: 0.0.0.0
-title: Kopako Services
+domain: "k8s.clusteronprem.eu"
+# host: 0.0.0.0
+title: Kubernetes Cluster On-Premises
 email: Kopan.Dmytro@yahoo.com
 description: >-
   Kubernetes Cluster On-Premises, Expertise for IT companies.
   I provide professional Kubernetes cluster installation services tailored for IT teams. 
 baseurl: ""
-url: "https://clusteronprem.eu"
+url: "http://k8s.clusteronprem.eu"
 twitter_username: dkopako
 github_username:  kopako
 
